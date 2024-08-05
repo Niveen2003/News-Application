@@ -1,0 +1,29 @@
+#con{
+    background-color: rgb(238, 226, 210);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 1px 1px 50px;
+   }
+   #id{
+       display: flex;
+       justify-content: center;
+       margin-top: 250px;
+   }
+   #in{
+       padding: 3px;
+       border-radius: 5px;
+       margin-left: 5px;
+       margin-top: 5px;
+   }
+   #in1{
+       padding: 3px;
+       border-radius: 5px;
+       margin-left: 28px;
+       margin-top: 5px;
+   }
+   #out{
+       margin-top: 6px;
+       width: 100%;
+       border-radius: 5px;
+   }
+   
